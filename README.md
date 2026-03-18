@@ -56,7 +56,7 @@
 ## 🌟 Project Abstract
 
 <div align="center">
-<img src="assets/page_10_img_1.jpeg" width="70%" alt="Regions of the Brain"/>
+<img src="assets/brain.png" width="70%" alt="Regions of the Brain"/>
 <br><sub><i>Fig. 1 — Regions of the Human Brain</i></sub>
 </div>
 
