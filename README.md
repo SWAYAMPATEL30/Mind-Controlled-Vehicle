@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="assets/page_59_img_1.jpeg" width="100%" style="border-radius:16px" alt="Mind Controlled Vehicle - Prototype"/>
 
 # 🧠 Mind-Controlled Vehicle
 ### *A Brain-Computer Interface powered smart wheelchair system*
@@ -547,7 +546,7 @@ This project was developed at **K. J. Somaiya Polytechnic**, Department of Compu
 
 <div align="center">
 
-**Made with 🧠 + ❤️ at K. J. Somaiya Polytechnic, Mumbai**
+
 
 *"Technology should understand everyone — and make life better for all of us."*
 
